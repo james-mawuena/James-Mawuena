@@ -1,16 +1,58 @@
-## Hi there 👋
+# James-Mawuena Abraham
 
-<!--
-**james-mawuena/James-Mawuena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student working at the intersection of AI, robotics, and real-world problems.
 
-Here are some ideas to get you started:
+I am a final-year Computer Engineering student at the Federal University of Technology, Akure (FUTA), Nigeria. I am interested in how intelligent systems can move beyond screens and software to interact with the physical world, and how AI and robotics can be applied to problems that affect people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+**Robotics and Intelligent Systems**
+Building my understanding of robotics, embedded systems, control, and AI-powered machines.
+
+**Artificial Intelligence and Machine Learning**
+Learning the fundamentals of machine learning, with the goal of building systems that can learn, predict, and support useful decisions.
+
+**Research**
+Research at the intersection of engineering, AI, robotics, and societal problems.
+
+**Technology and Public Innovation**
+Exploring how technology can contribute to better systems, better governance, and better outcomes for people, particularly in Africa.
+
+## Currently Learning
+
+- Python and Machine Learning
+- Deep Learning
+- Statistics and Mathematics for ML
+- Embedded Systems
+- Robotics and ROS 2
+- CAD and Mechanical Design
+- Electronics and PCB Design
+
+## Tools and Technologies
+
+| Area | Tools |
+| --- | --- |
+| Languages | `Python` `C/C++` `JavaScript` |
+| AI and ML | `NumPy` `Pandas` `Scikit-learn` `PyTorch` |
+| Hardware and Robotics | `Arduino` `ESP32` `Raspberry Pi` `ROS 2` |
+| Engineering and Design | `SolidWorks` `KiCad` `FreeCAD` |
+
+## Projects
+
+I am currently rebuilding my portfolio with new projects.
+
+- [Student Mental Health EDA](https://github.com/james-mawuena/Student-Mental-Health-EDA-Pandas-Seaborn): exploratory data analysis with Pandas and Seaborn
+- Machine learning projects: coming soon, as I work through the Machine Learning Specialization
+
+## About Me
+
+I do not want to only learn how to use technology. I want to understand how it works, why it works, and how to build it myself. That means spending time on the fundamentals, breaking things, rebuilding them, and documenting the process.
+
+My long-term goal is to contribute to intelligent systems that solve meaningful problems, from robotics and assistive technology to public innovation.
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/jamesmawuena](https://www.linkedin.com/in/jamesmawuena)
+- Instagram: [@james.mawuena](https://instagram.com/james.mawuena)
+
+*Learn. Build. Become.*
