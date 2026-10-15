@@ -39,10 +39,9 @@ Exploring how technology can contribute to better systems, better governance, an
 
 ## Projects
 
-I am currently rebuilding my portfolio with new projects.
-
+- [Student Final CGPA Predictor](https://github.com/james-mawuena/student-performance-prediction): linear and logistic regression models that estimate a student's final CGPA and their chance of a good degree from first-year results, with a fairness check by gender. [Live demo](https://student-cgpa-predictor.streamlit.app/)
 - [Student Mental Health EDA](https://github.com/james-mawuena/Student-Mental-Health-EDA-Pandas-Seaborn): exploratory data analysis with Pandas and Seaborn
-- Machine learning projects: coming soon, as I work through the Machine Learning Specialization
+- More machine learning projects will be added as I work through the Machine Learning Specialization
 
 ## About Me
 
