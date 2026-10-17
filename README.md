@@ -39,9 +39,10 @@ Exploring how technology can contribute to better systems, better governance, an
 
 ## Projects
 
-- [Student Final CGPA Predictor](https://github.com/james-mawuena/student-performance-prediction): linear and logistic regression models that estimate a student's final CGPA and their chance of a good degree from first-year results, with a fairness check by gender. [Live demo](https://student-cgpa-predictor.streamlit.app/)
+- [Credit Card Fraud Detection](https://github.com/james-mawuena/credit-card-fraud-detection): five models compared on data where only 0.17% of transactions are fraud. Choosing the decision cut-off on a separate validation group mattered more than the choice of model, and a simple logistic regression matched a neural network, a random forest and XGBoost.
+- [Student Final CGPA Predictor](https://github.com/james-mawuena/student-performance-prediction): linear and logistic regression models that estimate a student's final CGPA and degree class from first-year results, with a fairness check by gender. [Live demo](https://student-cgpa-predictor.streamlit.app/)
 - [Student Mental Health EDA](https://github.com/james-mawuena/Student-Mental-Health-EDA-Pandas-Seaborn): exploratory data analysis with Pandas and Seaborn
-- More machine learning projects will be added as I work through the Machine Learning Specialization
+- More projects in security and healthcare are in progress
 
 ## About Me
 
